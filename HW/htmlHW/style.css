@@ -1,0 +1,25 @@
+#PageTitle {
+    color: blue;
+    font-style: italic;
+}
+
+#Ingredients {
+    color: purple;
+    font-style: italic;
+    font-size: large;
+}
+
+#Instructions{
+    font-style: italic;
+    font-size: large;
+    color: black;
+}
+body{
+    background-color: lightgray;
+}
+
+.labels{
+    font-size: larger;
+    color: yellow;
+    font-style: italic;
+}
